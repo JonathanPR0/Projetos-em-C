@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591136514 source:c:\users\jonathan\desktop\meus_projetos_em_c\de aluno para aluno\01 - inversor de números\02 - introdução a vetores\02 - introdução a vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

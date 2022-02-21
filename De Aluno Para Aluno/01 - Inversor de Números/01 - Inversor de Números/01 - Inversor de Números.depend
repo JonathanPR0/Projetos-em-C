@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590768354 source:c:\users\jonathan\desktop\meus_projetos_em_c\de aluno para aluno\01 - inversor de números\01 - inversor de números\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
